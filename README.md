@@ -8,5 +8,7 @@ command line.
 ## How to run the script
 Run this command on your linux terminal
 ```bash
-    ./create-react-app.sh
+ git clone https://github.com/imrany/create-react-app-bash.git
+ cd create-react-app-bash
+ ./create-react-app.sh
 ```
