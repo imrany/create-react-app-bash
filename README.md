@@ -6,9 +6,15 @@ This script runs on a linux machine, it can also run on windows if you run it on
 command line.
 
 ## How to run the script
-Run this command on your linux terminal
+Clone this repository
 ```bash
  git clone https://github.com/imrany/create-react-app-bash.git
- cd create-react-app-bash
- ./create-react-app.sh
+```
+Get into the folder
+```bash
+cd create-react-app-bash
+```
+Run this command in your terminal
+```bash
+./create-react-app.sh
 ```
