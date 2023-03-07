@@ -18,3 +18,7 @@ Run this command in your terminal
 ```bash
 ./create-react-app.sh
 ```
+Or run
+```bash
+bash create-react-app.sh
+```
